@@ -31,3 +31,4 @@ caloi = Bicicleta("vermelha", "caloi", "2000", "200", "27")
 print(caloi)
 caloi.andar()
 caloi.trocar_marcha()
+
